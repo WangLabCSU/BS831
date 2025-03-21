@@ -42,6 +42,7 @@ Imports:
     GSVA,
     edgeR,
     limma
+Remotes: montilab/vennr
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.0.2
